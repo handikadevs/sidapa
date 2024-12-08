@@ -9,7 +9,7 @@
      <!-- CSRF Token -->
      <meta name="csrf-token" content="{{ csrf_token() }}">
   
-     <title>{{ config('app.name', 'Si Poni Putih') }}</title>
+     <title>{{ config('app.name', 'Si Dapa') }}</title>
  
      <!-- Favicon -->
      <link rel="shortcut icon" href="favicon.png" type="image/x-icon">

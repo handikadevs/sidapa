@@ -19,7 +19,7 @@
         <!-- Header Logo -->
         <a class="u-header-logo" href="{{ route('index') }}">
             <span class="u-header-logo__icon" alt="Icon">SPP</span>
-            <span class="u-header-logo__text" alt="Text">Si Poni Putih</span>
+            <span class="u-header-logo__text" alt="Text">Si Dapa</span>
         </a>
         <!-- End Header Logo -->
     </div>
@@ -43,7 +43,7 @@
             <div class="u-header-search"
                     data-search-mobile-invoker="#headerSearchMobileInvoker"
                     data-search-target="#headerSearch">
-                    <span class="h3 text-dark d-none d-md-inline-flex align-items-center">Sistem Pendaftaran Online Puskesmas Ngletih</span>
+                    <span class="h3 text-dark d-none d-md-inline-flex align-items-center">Sistem Pendaftaran Pasien</span>
             </div>
         </div>
         <!-- End Header Search -->

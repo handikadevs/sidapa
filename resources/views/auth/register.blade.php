@@ -8,7 +8,7 @@
             <div class="card">
                 <!-- Card Body -->
                 <div class="card-body p-4 p-lg-7">
-                    <h2 class="text-primary"><a href="{{ route('index')}}">Si Poni Putih</a></h2>
+                    <h2 class="text-primary"><a href="{{ route('index')}}">Si Dapa</a></h2>
                     <p class="text-muted mb-4">Isi data sesuai identitas anda.</p>
 
                     <!-- Create Account Form -->
@@ -165,7 +165,7 @@
                         <button type="submit" class="btn btn-block btn-wide btn-primary text-uppercase">Simpan</button>
 
                         <p class="text-center mt-5">
-                            Sudah memiliki akun Si Poni Putih?
+                            Sudah memiliki akun Si Dapa?
                             <a class="font-weight-semi-bold" href="{{ route('login') }}">Masuk Sekarang</a>
                         </p>
                     </form>

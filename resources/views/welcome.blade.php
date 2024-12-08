@@ -4,8 +4,8 @@
 <div class="container py-5 my-auto">
 	<div class="row align-items-center">
 		<div class="col-md-12 col-lg-12 offset-lg-1 mx-auto">
-			<h3 class="h1 font-weight-bold text-primary mb-5">Si Poni Putih</h3>
-			<h2 class="h1">Selamat Datang<br class="d-none d-md-block"> Sistem Pendaftaran Online Puskesmas Ngletih Kota Kediri</h2>
+			<h3 class="h1 font-weight-bold text-primary mb-5">Si Dapa</h3>
+			<h2 class="h1">Selamat Datang<br class="d-none d-md-block"> Sistem Pendaftaran Pasien </h2>
 
 			<!-- Benefits -->
 			<ul class="list-unstyled mb-5 mt-5">
@@ -32,7 +32,7 @@
 						</div>
 
 						<div class="media-body">
-							<p class="h3 text-dark mb-0">Nomor Rekam Medis, bagi pasien yang pernah periksa di Puskesmas Ngletih.</p>
+							<p class="h3 text-dark mb-0">Nomor Rekam Medis, bagi pasien yang pernah periksa di Unsia Hospital.</p>
 						</div>
 					</div>
 				</li>

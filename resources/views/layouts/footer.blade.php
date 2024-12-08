@@ -14,7 +14,7 @@
             <!-- End Footer Menu -->
 
             <!-- Copyright -->
-            <span class="text-muted ml-auto">&copy; <script>document.write(new Date().getFullYear())</script> <a class="text-muted" href="https://griyakaryadigital.github.io/" target="_blank">Griya Karya Digital</a>. All Rights Reserved.</span>
+            <span class="text-muted ml-auto">&copy; <script>document.write(new Date().getFullYear())</script> <a class="text-muted" href="https://handikadevs.github.io/" target="_blank">Handika Kristofan</a>. All Rights Reserved.</span>
             <!-- End Copyright -->
         </div>
     </div>

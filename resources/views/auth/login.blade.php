@@ -8,7 +8,7 @@
             <div class="card">
                 <!-- Card Body -->
                 <div class="card-body p-4 p-lg-7">
-                    <h2 class="text-primary"><a href="{{ route('index')}}">Si Poni Putih</a></h2>
+                    <h2 class="text-primary"><a href="{{ route('index')}}">Si Dapa</a></h2>
                     <p class="text-muted mb-4">Masuk dengan akun anda.</p>
 
                     <!-- Sign in Form -->

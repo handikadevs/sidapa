@@ -9,7 +9,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
  
-    <title>{{ config('app.name', 'Si Poni Putih') }}</title>
+    <title>{{ config('app.name', 'Si Dapa') }}</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
@@ -28,7 +28,7 @@
 </head>
 <body class="antialiased">
     <main class="d-flex flex-column u-hero u-hero--end mnh-100vh" style="background-image: linear-gradient(rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)), url({{asset('assets')}}/img/bg_puskesmas.jpg); box-shadow: inset 0 0 120px #fff, inset 0 0 80px #fff, inset 0 0 40px #fff;">
+    rgba(255, 255, 255, 0.7)), url({{asset('assets')}}/img/rs.jpg); box-shadow: inset 0 0 120px #fff, inset 0 0 80px #fff, inset 0 0 40px #fff;">
     @include('sweetalert::alert')
             @yield('content')
 
@@ -48,7 +48,7 @@
 						<!-- End Footer Menu -->
 
 						<!-- Copyright -->
-						<span class="text-muted ml-auto">&copy; <script>document.write(new Date().getFullYear())</script> <a class="text-muted" href="https://griyakaryadigital.github.io/" target="_blank">Griya Karya Digital</a>. All Rights Reserved.</span>
+						<span class="text-muted ml-auto">&copy; <script>document.write(new Date().getFullYear())</script> <a class="text-muted" href="https://handikadevs.github.io/" target="_blank">Handika Kristofan</a>. All Rights Reserved.</span>
 						<!-- End Copyright -->
 					</div>
 				</div>
